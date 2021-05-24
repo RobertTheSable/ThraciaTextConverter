@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/icons">
+        <file>lord.png</file>
+    </qresource>
+</RCC>
